@@ -1,0 +1,20 @@
+{
+  "name": "nodejstelegrambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "14.17.6",
+    "npm": "8.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "telegraf": "^4.8.6"
+  }
+}
